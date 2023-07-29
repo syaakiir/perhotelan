@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738547249119",
+    "project_id": "uas-hotel",
+    "storage_bucket": "uas-hotel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738547249119:android:92184218e10d2ccadc5e6a",
+        "android_client_info": {
+          "package_name": "com.pnj.hotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738547249119-1j0vdnas865ksontlql8oqitm7aaavmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw8ZMfJXXWunr0zHsOyU4oxf8eGwXhkpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738547249119-1j0vdnas865ksontlql8oqitm7aaavmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
